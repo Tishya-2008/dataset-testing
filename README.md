@@ -1,6 +1,6 @@
 # dataset-testing
 
-Creating a multinomial regression model using Python and sci-kit learn
+Creating a multinomial regression model using Python and sci-kit learn. These are two regression models for Ontario healthcare data. 
 
 Install the required libraries using: pip install pandas numpy scikit-learn matplotlib seaborn
 Run the script in the terminal by typing python main.py or python3 main.py (dependent on your version of python)
