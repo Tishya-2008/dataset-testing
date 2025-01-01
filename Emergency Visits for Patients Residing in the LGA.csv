@@ -1,0 +1,398 @@
+"FIGURE 8.1 Emergency Visit Rates (per 1,000 population) for CTAS Levels Semi-Urgent (4) and Non-Urgent (5)2, Fiscal Year 2020/2021",,,,,
+Fiscal Year,LOCAL CODE,LOCAL NAME,Triage Level," LGA Emergency Visit (per 1,000 population)"," Alberta Emergency Visit (per 1,000 population)"
+2020/2021,Z1.1.A.01,Crowsnest Pass,Semi Urgent (4),  206.1 ,  114.4 
+2020/2021,Z1.1.A.01,Crowsnest Pass,Non-Urgent (5),  117.3 ,  28.3 
+2020/2021,Z1.1.A.01,Crowsnest Pass,Semi Urgent (4) & Non-Urgent (5) Combined,  323.4 ,  142.8 
+2020/2021,Z1.1.A.02,Pincher Creek,Semi Urgent (4),  178.3 ,  114.4 
+2020/2021,Z1.1.A.02,Pincher Creek,Non-Urgent (5),  93.4 ,  28.3 
+2020/2021,Z1.1.A.02,Pincher Creek,Semi Urgent (4) & Non-Urgent (5) Combined,  271.6 ,  142.8 
+2020/2021,Z1.1.A.03,Fort Macleod,Semi Urgent (4),  178.1 ,  114.4 
+2020/2021,Z1.1.A.03,Fort Macleod,Non-Urgent (5),  174.3 ,  28.3 
+2020/2021,Z1.1.A.03,Fort Macleod,Semi Urgent (4) & Non-Urgent (5) Combined,  352.5 ,  142.8 
+2020/2021,Z1.1.B.04,Cardston-Kainai,Semi Urgent (4),  185.3 ,  114.4 
+2020/2021,Z1.1.B.04,Cardston-Kainai,Non-Urgent (5),  158.5 ,  28.3 
+2020/2021,Z1.1.B.04,Cardston-Kainai,Semi Urgent (4) & Non-Urgent (5) Combined,  343.8 ,  142.8 
+2020/2021,Z1.2.A.01,County of Lethbridge excluding the City of Lethbridge,Semi Urgent (4),  129.1 ,  114.4 
+2020/2021,Z1.2.A.01,County of Lethbridge excluding the City of Lethbridge,Non-Urgent (5),  30.8 ,  28.3 
+2020/2021,Z1.2.A.01,County of Lethbridge excluding the City of Lethbridge,Semi Urgent (4) & Non-Urgent (5) Combined,  159.9 ,  142.8 
+2020/2021,Z1.2.B.02,Taber MD,Semi Urgent (4),  131.9 ,  114.4 
+2020/2021,Z1.2.B.02,Taber MD,Non-Urgent (5),  43.6 ,  28.3 
+2020/2021,Z1.2.B.02,Taber MD,Semi Urgent (4) & Non-Urgent (5) Combined,  175.5 ,  142.8 
+2020/2021,Z1.2.C.03,County of Warner,Semi Urgent (4),  164.0 ,  114.4 
+2020/2021,Z1.2.C.03,County of Warner,Non-Urgent (5),  184.4 ,  28.3 
+2020/2021,Z1.2.C.03,County of Warner,Semi Urgent (4) & Non-Urgent (5) Combined,  348.5 ,  142.8 
+2020/2021,Z1.2.C.04,County of Forty Mile,Semi Urgent (4),  273.4 ,  114.4 
+2020/2021,Z1.2.C.04,County of Forty Mile,Non-Urgent (5),  148.8 ,  28.3 
+2020/2021,Z1.2.C.04,County of Forty Mile,Semi Urgent (4) & Non-Urgent (5) Combined,  422.2 ,  142.8 
+2020/2021,Z1.3.A.01,Newell,Semi Urgent (4),  230.5 ,  114.4 
+2020/2021,Z1.3.A.01,Newell,Non-Urgent (5),  66.7 ,  28.3 
+2020/2021,Z1.3.A.01,Newell,Semi Urgent (4) & Non-Urgent (5) Combined,  297.2 ,  142.8 
+2020/2021,Z1.3.B.02,Oyen,Semi Urgent (4),  257.7 ,  114.4 
+2020/2021,Z1.3.B.02,Oyen,Non-Urgent (5),  92.9 ,  28.3 
+2020/2021,Z1.3.B.02,Oyen,Semi Urgent (4) & Non-Urgent (5) Combined,  350.6 ,  142.8 
+2020/2021,Z1.3.B.03,Cypress County excluding Medicine Hat,Semi Urgent (4),  129.9 ,  114.4 
+2020/2021,Z1.3.B.03,Cypress County excluding Medicine Hat,Non-Urgent (5),  17.9 ,  28.3 
+2020/2021,Z1.3.B.03,Cypress County excluding Medicine Hat,Semi Urgent (4) & Non-Urgent (5) Combined,  147.8 ,  142.8 
+2020/2021,Z1.4.A.01,Medicine Hat,Semi Urgent (4),  140.4 ,  114.4 
+2020/2021,Z1.4.A.01,Medicine Hat,Non-Urgent (5),  19.2 ,  28.3 
+2020/2021,Z1.4.A.01,Medicine Hat,Semi Urgent (4) & Non-Urgent (5) Combined,  159.7 ,  142.8 
+2020/2021,Z1.5.A.01,Lethbridge - West,Semi Urgent (4),  130.4 ,  114.4 
+2020/2021,Z1.5.A.01,Lethbridge - West,Non-Urgent (5),  25.8 ,  28.3 
+2020/2021,Z1.5.A.01,Lethbridge - West,Semi Urgent (4) & Non-Urgent (5) Combined,  156.1 ,  142.8 
+2020/2021,Z1.5.B.02,Lethbridge - North,Semi Urgent (4),  169.0 ,  114.4 
+2020/2021,Z1.5.B.02,Lethbridge - North,Non-Urgent (5),  34.9 ,  28.3 
+2020/2021,Z1.5.B.02,Lethbridge - North,Semi Urgent (4) & Non-Urgent (5) Combined,  203.9 ,  142.8 
+2020/2021,Z1.5.C.03,Lethbridge - South,Semi Urgent (4),  166.1 ,  114.4 
+2020/2021,Z1.5.C.03,Lethbridge - South,Non-Urgent (5),  36.7 ,  28.3 
+2020/2021,Z1.5.C.03,Lethbridge - South,Semi Urgent (4) & Non-Urgent (5) Combined,  202.8 ,  142.8 
+2020/2021,Z2.1.A.01,Calgary - Upper NW,Semi Urgent (4),  53.2 ,  114.4 
+2020/2021,Z2.1.A.01,Calgary - Upper NW,Non-Urgent (5),  9.0 ,  28.3 
+2020/2021,Z2.1.A.01,Calgary - Upper NW,Semi Urgent (4) & Non-Urgent (5) Combined,  62.2 ,  142.8 
+2020/2021,Z2.1.B.02,Calgary - North,Semi Urgent (4),  54.3 ,  114.4 
+2020/2021,Z2.1.B.02,Calgary - North,Non-Urgent (5),  8.6 ,  28.3 
+2020/2021,Z2.1.B.02,Calgary - North,Semi Urgent (4) & Non-Urgent (5) Combined,  63.0 ,  142.8 
+2020/2021,Z2.1.C.03,Calgary - Nose Hill,Semi Urgent (4),  64.5 ,  114.4 
+2020/2021,Z2.1.C.03,Calgary - Nose Hill,Non-Urgent (5),  14.2 ,  28.3 
+2020/2021,Z2.1.C.03,Calgary - Nose Hill,Semi Urgent (4) & Non-Urgent (5) Combined,  78.7 ,  142.8 
+2020/2021,Z2.1.D.04,Calgary - Lower NW,Semi Urgent (4),  64.1 ,  114.4 
+2020/2021,Z2.1.D.04,Calgary - Lower NW,Non-Urgent (5),  9.6 ,  28.3 
+2020/2021,Z2.1.D.04,Calgary - Lower NW,Semi Urgent (4) & Non-Urgent (5) Combined,  73.6 ,  142.8 
+2020/2021,Z2.1.E.05,Calgary - West Bow,Semi Urgent (4),  71.7 ,  114.4 
+2020/2021,Z2.1.E.05,Calgary - West Bow,Non-Urgent (5),  15.1 ,  28.3 
+2020/2021,Z2.1.E.05,Calgary - West Bow,Semi Urgent (4) & Non-Urgent (5) Combined,  86.8 ,  142.8 
+2020/2021,Z2.1.F.06,Calgary - Centre North,Semi Urgent (4),  65.9 ,  114.4 
+2020/2021,Z2.1.F.06,Calgary - Centre North,Non-Urgent (5),  17.8 ,  28.3 
+2020/2021,Z2.1.F.06,Calgary - Centre North,Semi Urgent (4) & Non-Urgent (5) Combined,  83.7 ,  142.8 
+2020/2021,Z2.2.A.01,Calgary - Upper NE,Semi Urgent (4),  46.2 ,  114.4 
+2020/2021,Z2.2.A.01,Calgary - Upper NE,Non-Urgent (5),  8.9 ,  28.3 
+2020/2021,Z2.2.A.01,Calgary - Upper NE,Semi Urgent (4) & Non-Urgent (5) Combined,  55.1 ,  142.8 
+2020/2021,Z2.2.B.02,Calgary - Lower NE,Semi Urgent (4),  56.8 ,  114.4 
+2020/2021,Z2.2.B.02,Calgary - Lower NE,Non-Urgent (5),  12.4 ,  28.3 
+2020/2021,Z2.2.B.02,Calgary - Lower NE,Semi Urgent (4) & Non-Urgent (5) Combined,  69.2 ,  142.8 
+2020/2021,Z2.3.A.01,Calgary - East,Semi Urgent (4),  66.5 ,  114.4 
+2020/2021,Z2.3.A.01,Calgary - East,Non-Urgent (5),  15.2 ,  28.3 
+2020/2021,Z2.3.A.01,Calgary - East,Semi Urgent (4) & Non-Urgent (5) Combined,  81.7 ,  142.8 
+2020/2021,Z2.3.B.02,Calgary - SE,Semi Urgent (4),  65.3 ,  114.4 
+2020/2021,Z2.3.B.02,Calgary - SE,Non-Urgent (5),  13.1 ,  28.3 
+2020/2021,Z2.3.B.02,Calgary - SE,Semi Urgent (4) & Non-Urgent (5) Combined,  78.4 ,  142.8 
+2020/2021,Z2.4.A.01,Calgary - West,Semi Urgent (4),  60.1 ,  114.4 
+2020/2021,Z2.4.A.01,Calgary - West,Non-Urgent (5),  12.4 ,  28.3 
+2020/2021,Z2.4.A.01,Calgary - West,Semi Urgent (4) & Non-Urgent (5) Combined,  72.6 ,  142.8 
+2020/2021,Z2.4.B.02,Calgary - Centre,Semi Urgent (4),  89.0 ,  114.4 
+2020/2021,Z2.4.B.02,Calgary - Centre,Non-Urgent (5),  33.4 ,  28.3 
+2020/2021,Z2.4.B.02,Calgary - Centre,Semi Urgent (4) & Non-Urgent (5) Combined,  122.4 ,  142.8 
+2020/2021,Z2.4.C.03,Calgary - Centre West,Semi Urgent (4),  71.3 ,  114.4 
+2020/2021,Z2.4.C.03,Calgary - Centre West,Non-Urgent (5),  16.6 ,  28.3 
+2020/2021,Z2.4.C.03,Calgary - Centre West,Semi Urgent (4) & Non-Urgent (5) Combined,  87.8 ,  142.8 
+2020/2021,Z2.4.D.04,Calgary - Elbow,Semi Urgent (4),  72.5 ,  114.4 
+2020/2021,Z2.4.D.04,Calgary - Elbow,Non-Urgent (5),  17.6 ,  28.3 
+2020/2021,Z2.4.D.04,Calgary - Elbow,Semi Urgent (4) & Non-Urgent (5) Combined,  90.1 ,  142.8 
+2020/2021,Z2.4.E.05,Calgary - Fish Creek,Semi Urgent (4),  80.9 ,  114.4 
+2020/2021,Z2.4.E.05,Calgary - Fish Creek,Non-Urgent (5),  18.5 ,  28.3 
+2020/2021,Z2.4.E.05,Calgary - Fish Creek,Semi Urgent (4) & Non-Urgent (5) Combined,  99.4 ,  142.8 
+2020/2021,Z2.4.F.06,Calgary - SW,Semi Urgent (4),  81.0 ,  114.4 
+2020/2021,Z2.4.F.06,Calgary - SW,Non-Urgent (5),  18.9 ,  28.3 
+2020/2021,Z2.4.F.06,Calgary - SW,Semi Urgent (4) & Non-Urgent (5) Combined,  99.9 ,  142.8 
+2020/2021,Z2.5.A.01,Okotoks-Priddis,Semi Urgent (4),  154.9 ,  114.4 
+2020/2021,Z2.5.A.01,Okotoks-Priddis,Non-Urgent (5),  23.8 ,  28.3 
+2020/2021,Z2.5.A.01,Okotoks-Priddis,Semi Urgent (4) & Non-Urgent (5) Combined,  178.8 ,  142.8 
+2020/2021,Z2.5.B.02,Black Diamond,Semi Urgent (4),  228.8 ,  114.4 
+2020/2021,Z2.5.B.02,Black Diamond,Non-Urgent (5),  23.5 ,  28.3 
+2020/2021,Z2.5.B.02,Black Diamond,Semi Urgent (4) & Non-Urgent (5) Combined,  252.3 ,  142.8 
+2020/2021,Z2.5.B.03,High River,Semi Urgent (4),  170.2 ,  114.4 
+2020/2021,Z2.5.B.03,High River,Non-Urgent (5),  27.5 ,  28.3 
+2020/2021,Z2.5.B.03,High River,Semi Urgent (4) & Non-Urgent (5) Combined,  197.8 ,  142.8 
+2020/2021,Z2.5.C.04,Claresholm,Semi Urgent (4),  230.0 ,  114.4 
+2020/2021,Z2.5.C.04,Claresholm,Non-Urgent (5),  47.0 ,  28.3 
+2020/2021,Z2.5.C.04,Claresholm,Semi Urgent (4) & Non-Urgent (5) Combined,  277.0 ,  142.8 
+2020/2021,Z2.5.C.05,Vulcan,Semi Urgent (4),  139.1 ,  114.4 
+2020/2021,Z2.5.C.05,Vulcan,Non-Urgent (5),  48.4 ,  28.3 
+2020/2021,Z2.5.C.05,Vulcan,Semi Urgent (4) & Non-Urgent (5) Combined,  187.5 ,  142.8 
+2020/2021,Z2.6.A.01,Airdrie,Semi Urgent (4),  123.8 ,  114.4 
+2020/2021,Z2.6.A.01,Airdrie,Non-Urgent (5),  11.8 ,  28.3 
+2020/2021,Z2.6.A.01,Airdrie,Semi Urgent (4) & Non-Urgent (5) Combined,  135.7 ,  142.8 
+2020/2021,Z2.6.B.02,Chestermere,Semi Urgent (4),  63.0 ,  114.4 
+2020/2021,Z2.6.B.02,Chestermere,Non-Urgent (5),  8.0 ,  28.3 
+2020/2021,Z2.6.B.02,Chestermere,Semi Urgent (4) & Non-Urgent (5) Combined,  71.0 ,  142.8 
+2020/2021,Z2.6.C.03,Strathmore,Semi Urgent (4),  160.2 ,  114.4 
+2020/2021,Z2.6.C.03,Strathmore,Non-Urgent (5),  20.3 ,  28.3 
+2020/2021,Z2.6.C.03,Strathmore,Semi Urgent (4) & Non-Urgent (5) Combined,  180.6 ,  142.8 
+2020/2021,Z2.6.C.04,Crossfield,Semi Urgent (4),  127.6 ,  114.4 
+2020/2021,Z2.6.C.04,Crossfield,Non-Urgent (5),  17.0 ,  28.3 
+2020/2021,Z2.6.C.04,Crossfield,Semi Urgent (4) & Non-Urgent (5) Combined,  144.6 ,  142.8 
+2020/2021,Z2.6.C.05,Didsbury,Semi Urgent (4),  173.5 ,  114.4 
+2020/2021,Z2.6.C.05,Didsbury,Non-Urgent (5),  21.6 ,  28.3 
+2020/2021,Z2.6.C.05,Didsbury,Semi Urgent (4) & Non-Urgent (5) Combined,  195.1 ,  142.8 
+2020/2021,Z2.7.A.01,Cochrane-Springbank,Semi Urgent (4),  133.8 ,  114.4 
+2020/2021,Z2.7.A.01,Cochrane-Springbank,Non-Urgent (5),  18.1 ,  28.3 
+2020/2021,Z2.7.A.01,Cochrane-Springbank,Semi Urgent (4) & Non-Urgent (5) Combined,  152.0 ,  142.8 
+2020/2021,Z2.7.B.02,Canmore,Semi Urgent (4),  165.6 ,  114.4 
+2020/2021,Z2.7.B.02,Canmore,Non-Urgent (5),  39.9 ,  28.3 
+2020/2021,Z2.7.B.02,Canmore,Semi Urgent (4) & Non-Urgent (5) Combined,  205.5 ,  142.8 
+2020/2021,Z2.7.B.03,Banff,Semi Urgent (4),  126.5 ,  114.4 
+2020/2021,Z2.7.B.03,Banff,Non-Urgent (5),  26.6 ,  28.3 
+2020/2021,Z2.7.B.03,Banff,Semi Urgent (4) & Non-Urgent (5) Combined,  153.1 ,  142.8 
+2020/2021,Z3.1.A.01,Rocky Mountain House,Semi Urgent (4),  333.0 ,  114.4 
+2020/2021,Z3.1.A.01,Rocky Mountain House,Non-Urgent (5),  44.3 ,  28.3 
+2020/2021,Z3.1.A.01,Rocky Mountain House,Semi Urgent (4) & Non-Urgent (5) Combined,  377.3 ,  142.8 
+2020/2021,Z3.1.B.02,Drayton Valley,Semi Urgent (4),  199.1 ,  114.4 
+2020/2021,Z3.1.B.02,Drayton Valley,Non-Urgent (5),  41.3 ,  28.3 
+2020/2021,Z3.1.B.02,Drayton Valley,Semi Urgent (4) & Non-Urgent (5) Combined,  240.4 ,  142.8 
+2020/2021,Z3.2.A.01,Sundre,Semi Urgent (4),  241.0 ,  114.4 
+2020/2021,Z3.2.A.01,Sundre,Non-Urgent (5),  24.9 ,  28.3 
+2020/2021,Z3.2.A.01,Sundre,Semi Urgent (4) & Non-Urgent (5) Combined,  265.9 ,  142.8 
+2020/2021,Z3.2.A.02,Olds,Semi Urgent (4),  223.3 ,  114.4 
+2020/2021,Z3.2.A.02,Olds,Non-Urgent (5),  26.3 ,  28.3 
+2020/2021,Z3.2.A.02,Olds,Semi Urgent (4) & Non-Urgent (5) Combined,  249.5 ,  142.8 
+2020/2021,Z3.2.B.03,Innisfail,Semi Urgent (4),  234.5 ,  114.4 
+2020/2021,Z3.2.B.03,Innisfail,Non-Urgent (5),  47.1 ,  28.3 
+2020/2021,Z3.2.B.03,Innisfail,Semi Urgent (4) & Non-Urgent (5) Combined,  281.6 ,  142.8 
+2020/2021,Z3.2.C.04,Red Deer County excluding the City of Red Deer,Semi Urgent (4),  158.4 ,  114.4 
+2020/2021,Z3.2.C.04,Red Deer County excluding the City of Red Deer,Non-Urgent (5),  25.4 ,  28.3 
+2020/2021,Z3.2.C.04,Red Deer County excluding the City of Red Deer,Semi Urgent (4) & Non-Urgent (5) Combined,  183.8 ,  142.8 
+2020/2021,Z3.2.C.05,Sylvan Lake,Semi Urgent (4),  254.8 ,  114.4 
+2020/2021,Z3.2.C.05,Sylvan Lake,Non-Urgent (5),  45.0 ,  28.3 
+2020/2021,Z3.2.C.05,Sylvan Lake,Semi Urgent (4) & Non-Urgent (5) Combined,  299.8 ,  142.8 
+2020/2021,Z3.3.A.01,Three Hills/Highway 21,Semi Urgent (4),  204.5 ,  114.4 
+2020/2021,Z3.3.A.01,Three Hills/Highway 21,Non-Urgent (5),  87.8 ,  28.3 
+2020/2021,Z3.3.A.01,Three Hills/Highway 21,Semi Urgent (4) & Non-Urgent (5) Combined,  292.3 ,  142.8 
+2020/2021,Z3.3.A.02,Starland County/Drumheller,Semi Urgent (4),  170.0 ,  114.4 
+2020/2021,Z3.3.A.02,Starland County/Drumheller,Non-Urgent (5),  43.6 ,  28.3 
+2020/2021,Z3.3.A.02,Starland County/Drumheller,Semi Urgent (4) & Non-Urgent (5) Combined,  213.6 ,  142.8 
+2020/2021,Z3.3.A.04,Planning & Special Area 2,Semi Urgent (4),  239.6 ,  114.4 
+2020/2021,Z3.3.A.04,Planning & Special Area 2,Non-Urgent (5),  67.3 ,  28.3 
+2020/2021,Z3.3.A.04,Planning & Special Area 2,Semi Urgent (4) & Non-Urgent (5) Combined,  306.9 ,  142.8 
+2020/2021,Z3.3.B.03,Stettler & County,Semi Urgent (4),  378.9 ,  114.4 
+2020/2021,Z3.3.B.03,Stettler & County,Non-Urgent (5),  95.2 ,  28.3 
+2020/2021,Z3.3.B.03,Stettler & County,Semi Urgent (4) & Non-Urgent (5) Combined,  474.0 ,  142.8 
+2020/2021,Z3.3.B.05,Castor/Coronation/Consort,Semi Urgent (4),  371.2 ,  114.4 
+2020/2021,Z3.3.B.05,Castor/Coronation/Consort,Non-Urgent (5),  155.6 ,  28.3 
+2020/2021,Z3.3.B.05,Castor/Coronation/Consort,Semi Urgent (4) & Non-Urgent (5) Combined,  526.9 ,  142.8 
+2020/2021,Z3.4.A.01,Wetaskiwin County,Semi Urgent (4),  314.3 ,  114.4 
+2020/2021,Z3.4.A.01,Wetaskiwin County,Non-Urgent (5),  41.3 ,  28.3 
+2020/2021,Z3.4.A.01,Wetaskiwin County,Semi Urgent (4) & Non-Urgent (5) Combined,  355.6 ,  142.8 
+2020/2021,Z3.4.B.02,Ponoka,Semi Urgent (4),  249.5 ,  114.4 
+2020/2021,Z3.4.B.02,Ponoka,Non-Urgent (5),  45.6 ,  28.3 
+2020/2021,Z3.4.B.02,Ponoka,Semi Urgent (4) & Non-Urgent (5) Combined,  295.1 ,  142.8 
+2020/2021,Z3.4.B.03,Rimbey,Semi Urgent (4),  208.3 ,  114.4 
+2020/2021,Z3.4.B.03,Rimbey,Non-Urgent (5),  57.6 ,  28.3 
+2020/2021,Z3.4.B.03,Rimbey,Semi Urgent (4) & Non-Urgent (5) Combined,  265.8 ,  142.8 
+2020/2021,Z3.4.B.04,Lacombe,Semi Urgent (4),  211.5 ,  114.4 
+2020/2021,Z3.4.B.04,Lacombe,Non-Urgent (5),  49.3 ,  28.3 
+2020/2021,Z3.4.B.04,Lacombe,Semi Urgent (4) & Non-Urgent (5) Combined,  260.9 ,  142.8 
+2020/2021,Z3.5.A.01,Camrose & County,Semi Urgent (4),  172.6 ,  114.4 
+2020/2021,Z3.5.A.01,Camrose & County,Non-Urgent (5),  27.7 ,  28.3 
+2020/2021,Z3.5.A.01,Camrose & County,Semi Urgent (4) & Non-Urgent (5) Combined,  200.2 ,  142.8 
+2020/2021,Z3.5.B.02,Tofield,Semi Urgent (4),  225.2 ,  114.4 
+2020/2021,Z3.5.B.02,Tofield,Non-Urgent (5),  99.6 ,  28.3 
+2020/2021,Z3.5.B.02,Tofield,Semi Urgent (4) & Non-Urgent (5) Combined,  324.7 ,  142.8 
+2020/2021,Z3.5.B.03,Viking,Semi Urgent (4),  204.7 ,  114.4 
+2020/2021,Z3.5.B.03,Viking,Non-Urgent (5),  126.1 ,  28.3 
+2020/2021,Z3.5.B.03,Viking,Semi Urgent (4) & Non-Urgent (5) Combined,  330.9 ,  142.8 
+2020/2021,Z3.5.B.04,Flagstaff County,Semi Urgent (4),  292.9 ,  114.4 
+2020/2021,Z3.5.B.04,Flagstaff County,Non-Urgent (5),  111.4 ,  28.3 
+2020/2021,Z3.5.B.04,Flagstaff County,Semi Urgent (4) & Non-Urgent (5) Combined,  404.3 ,  142.8 
+2020/2021,Z3.5.C.05,MD of Provost,Semi Urgent (4),  246.7 ,  114.4 
+2020/2021,Z3.5.C.05,MD of Provost,Non-Urgent (5),  142.4 ,  28.3 
+2020/2021,Z3.5.C.05,MD of Provost,Semi Urgent (4) & Non-Urgent (5) Combined,  389.1 ,  142.8 
+2020/2021,Z3.5.C.06,MD of Wainwright,Semi Urgent (4),  287.8 ,  114.4 
+2020/2021,Z3.5.C.06,MD of Wainwright,Non-Urgent (5),  48.4 ,  28.3 
+2020/2021,Z3.5.C.06,MD of Wainwright,Semi Urgent (4) & Non-Urgent (5) Combined,  336.3 ,  142.8 
+2020/2021,Z3.6.A.01,Lamont County,Semi Urgent (4),  283.7 ,  114.4 
+2020/2021,Z3.6.A.01,Lamont County,Non-Urgent (5),  109.4 ,  28.3 
+2020/2021,Z3.6.A.01,Lamont County,Semi Urgent (4) & Non-Urgent (5) Combined,  393.1 ,  142.8 
+2020/2021,Z3.6.A.02,Two Hills County,Semi Urgent (4),  244.3 ,  114.4 
+2020/2021,Z3.6.A.02,Two Hills County,Non-Urgent (5),  117.6 ,  28.3 
+2020/2021,Z3.6.A.02,Two Hills County,Semi Urgent (4) & Non-Urgent (5) Combined,  362.0 ,  142.8 
+2020/2021,Z3.6.A.03,Vegreville/Minburn County,Semi Urgent (4),  270.1 ,  114.4 
+2020/2021,Z3.6.A.03,Vegreville/Minburn County,Non-Urgent (5),  47.0 ,  28.3 
+2020/2021,Z3.6.A.03,Vegreville/Minburn County,Semi Urgent (4) & Non-Urgent (5) Combined,  317.1 ,  142.8 
+2020/2021,Z3.6.B.04,Vermilion River County,Semi Urgent (4),  76.1 ,  114.4 
+2020/2021,Z3.6.B.04,Vermilion River County,Non-Urgent (5),  14.3 ,  28.3 
+2020/2021,Z3.6.B.04,Vermilion River County,Semi Urgent (4) & Non-Urgent (5) Combined,  90.4 ,  142.8 
+2020/2021,Z3.7.A.01,Red Deer - North,Semi Urgent (4),  122.9 ,  114.4 
+2020/2021,Z3.7.A.01,Red Deer - North,Non-Urgent (5),  14.9 ,  28.3 
+2020/2021,Z3.7.A.01,Red Deer - North,Semi Urgent (4) & Non-Urgent (5) Combined,  137.8 ,  142.8 
+2020/2021,Z3.7.B.02,Red Deer - SW,Semi Urgent (4),  164.0 ,  114.4 
+2020/2021,Z3.7.B.02,Red Deer - SW,Non-Urgent (5),  22.3 ,  28.3 
+2020/2021,Z3.7.B.02,Red Deer - SW,Semi Urgent (4) & Non-Urgent (5) Combined,  186.3 ,  142.8 
+2020/2021,Z3.7.C.03,Red Deer - East,Semi Urgent (4),  94.0 ,  114.4 
+2020/2021,Z3.7.C.03,Red Deer - East,Non-Urgent (5),  10.6 ,  28.3 
+2020/2021,Z3.7.C.03,Red Deer - East,Semi Urgent (4) & Non-Urgent (5) Combined,  104.7 ,  142.8 
+2020/2021,Z4.1.A.01,Edmonton - Woodcroft East,Semi Urgent (4),  61.0 ,  114.4 
+2020/2021,Z4.1.A.01,Edmonton - Woodcroft East,Non-Urgent (5),  10.2 ,  28.3 
+2020/2021,Z4.1.A.01,Edmonton - Woodcroft East,Semi Urgent (4) & Non-Urgent (5) Combined,  71.2 ,  142.8 
+2020/2021,Z4.1.B.02,Edmonton - Woodcroft West,Semi Urgent (4),  58.2 ,  114.4 
+2020/2021,Z4.1.B.02,Edmonton - Woodcroft West,Non-Urgent (5),  8.6 ,  28.3 
+2020/2021,Z4.1.B.02,Edmonton - Woodcroft West,Semi Urgent (4) & Non-Urgent (5) Combined,  66.9 ,  142.8 
+2020/2021,Z4.1.C.03,Edmonton - Jasper Place,Semi Urgent (4),  55.2 ,  114.4 
+2020/2021,Z4.1.C.03,Edmonton - Jasper Place,Non-Urgent (5),  7.2 ,  28.3 
+2020/2021,Z4.1.C.03,Edmonton - Jasper Place,Semi Urgent (4) & Non-Urgent (5) Combined,  62.3 ,  142.8 
+2020/2021,Z4.1.D.04,Edmonton - West Jasper Place,Semi Urgent (4),  41.8 ,  114.4 
+2020/2021,Z4.1.D.04,Edmonton - West Jasper Place,Non-Urgent (5),  6.1 ,  28.3 
+2020/2021,Z4.1.D.04,Edmonton - West Jasper Place,Semi Urgent (4) & Non-Urgent (5) Combined,  47.9 ,  142.8 
+2020/2021,Z4.2.A.01,Edmonton - Castle Downs,Semi Urgent (4),  54.0 ,  114.4 
+2020/2021,Z4.2.A.01,Edmonton - Castle Downs,Non-Urgent (5),  7.5 ,  28.3 
+2020/2021,Z4.2.A.01,Edmonton - Castle Downs,Semi Urgent (4) & Non-Urgent (5) Combined,  61.4 ,  142.8 
+2020/2021,Z4.2.B.02,Edmonton - Northgate,Semi Urgent (4),  65.2 ,  114.4 
+2020/2021,Z4.2.B.02,Edmonton - Northgate,Non-Urgent (5),  9.5 ,  28.3 
+2020/2021,Z4.2.B.02,Edmonton - Northgate,Semi Urgent (4) & Non-Urgent (5) Combined,  74.7 ,  142.8 
+2020/2021,Z4.2.C.03,Edmonton - Eastwood,Semi Urgent (4),  112.1 ,  114.4 
+2020/2021,Z4.2.C.03,Edmonton - Eastwood,Non-Urgent (5),  24.2 ,  28.3 
+2020/2021,Z4.2.C.03,Edmonton - Eastwood,Semi Urgent (4) & Non-Urgent (5) Combined,  136.4 ,  142.8 
+2020/2021,Z4.2.D.04,Edmonton - Abbottsfield,Semi Urgent (4),  91.7 ,  114.4 
+2020/2021,Z4.2.D.04,Edmonton - Abbottsfield,Non-Urgent (5),  12.4 ,  28.3 
+2020/2021,Z4.2.D.04,Edmonton - Abbottsfield,Semi Urgent (4) & Non-Urgent (5) Combined,  104.1 ,  142.8 
+2020/2021,Z4.2.E.05,Edmonton - NE,Semi Urgent (4),  70.0 ,  114.4 
+2020/2021,Z4.2.E.05,Edmonton - NE,Non-Urgent (5),  11.2 ,  28.3 
+2020/2021,Z4.2.E.05,Edmonton - NE,Semi Urgent (4) & Non-Urgent (5) Combined,  81.2 ,  142.8 
+2020/2021,Z4.3.A.01,Edmonton - Bonnie Doon,Semi Urgent (4),  53.3 ,  114.4 
+2020/2021,Z4.3.A.01,Edmonton - Bonnie Doon,Non-Urgent (5),  9.5 ,  28.3 
+2020/2021,Z4.3.A.01,Edmonton - Bonnie Doon,Semi Urgent (4) & Non-Urgent (5) Combined,  62.8 ,  142.8 
+2020/2021,Z4.3.B.02,Edmonton - Mill Woods West,Semi Urgent (4),  65.5 ,  114.4 
+2020/2021,Z4.3.B.02,Edmonton - Mill Woods West,Non-Urgent (5),  9.6 ,  28.3 
+2020/2021,Z4.3.B.02,Edmonton - Mill Woods West,Semi Urgent (4) & Non-Urgent (5) Combined,  75.1 ,  142.8 
+2020/2021,Z4.3.C.03,Edmonton - Mill Woods South & East,Semi Urgent (4),  53.4 ,  114.4 
+2020/2021,Z4.3.C.03,Edmonton - Mill Woods South & East,Non-Urgent (5),  8.3 ,  28.3 
+2020/2021,Z4.3.C.03,Edmonton - Mill Woods South & East,Semi Urgent (4) & Non-Urgent (5) Combined,  61.7 ,  142.8 
+2020/2021,Z4.4.A.01,Edmonton - Duggan,Semi Urgent (4),  47.5 ,  114.4 
+2020/2021,Z4.4.A.01,Edmonton - Duggan,Non-Urgent (5),  6.7 ,  28.3 
+2020/2021,Z4.4.A.01,Edmonton - Duggan,Semi Urgent (4) & Non-Urgent (5) Combined,  54.2 ,  142.8 
+2020/2021,Z4.4.B.02,Edmonton - Twin Brooks,Semi Urgent (4),  36.8 ,  114.4 
+2020/2021,Z4.4.B.02,Edmonton - Twin Brooks,Non-Urgent (5),  5.1 ,  28.3 
+2020/2021,Z4.4.B.02,Edmonton - Twin Brooks,Semi Urgent (4) & Non-Urgent (5) Combined,  41.9 ,  142.8 
+2020/2021,Z4.4.C.03,Edmonton - Rutherford,Semi Urgent (4),  41.3 ,  114.4 
+2020/2021,Z4.4.C.03,Edmonton - Rutherford,Non-Urgent (5),  6.3 ,  28.3 
+2020/2021,Z4.4.C.03,Edmonton - Rutherford,Semi Urgent (4) & Non-Urgent (5) Combined,  47.6 ,  142.8 
+2020/2021,Z4.5.A.01,Sturgeon County West,Semi Urgent (4),  80.5 ,  114.4 
+2020/2021,Z4.5.A.01,Sturgeon County West,Non-Urgent (5),  13.5 ,  28.3 
+2020/2021,Z4.5.A.01,Sturgeon County West,Semi Urgent (4) & Non-Urgent (5) Combined,  93.9 ,  142.8 
+2020/2021,Z4.5.B.02,Sturgeon County East,Semi Urgent (4),  103.1 ,  114.4 
+2020/2021,Z4.5.B.02,Sturgeon County East,Non-Urgent (5),  33.4 ,  28.3 
+2020/2021,Z4.5.B.02,Sturgeon County East,Semi Urgent (4) & Non-Urgent (5) Combined,  136.5 ,  142.8 
+2020/2021,Z4.5.B.03,Fort Saskatchewan,Semi Urgent (4),  91.4 ,  114.4 
+2020/2021,Z4.5.B.03,Fort Saskatchewan,Non-Urgent (5),  26.5 ,  28.3 
+2020/2021,Z4.5.B.03,Fort Saskatchewan,Semi Urgent (4) & Non-Urgent (5) Combined,  117.9 ,  142.8 
+2020/2021,Z4.6.A.01,Sherwood Park,Semi Urgent (4),  70.7 ,  114.4 
+2020/2021,Z4.6.A.01,Sherwood Park,Non-Urgent (5),  9.5 ,  28.3 
+2020/2021,Z4.6.A.01,Sherwood Park,Semi Urgent (4) & Non-Urgent (5) Combined,  80.2 ,  142.8 
+2020/2021,Z4.6.B.02,Strathcona County excluding Sherwood Park,Semi Urgent (4),  82.6 ,  114.4 
+2020/2021,Z4.6.B.02,Strathcona County excluding Sherwood Park,Non-Urgent (5),  15.6 ,  28.3 
+2020/2021,Z4.6.B.02,Strathcona County excluding Sherwood Park,Semi Urgent (4) & Non-Urgent (5) Combined,  98.2 ,  142.8 
+2020/2021,Z4.7.A.01,Beaumont,Semi Urgent (4),  58.9 ,  114.4 
+2020/2021,Z4.7.A.01,Beaumont,Non-Urgent (5),  7.6 ,  28.3 
+2020/2021,Z4.7.A.01,Beaumont,Semi Urgent (4) & Non-Urgent (5) Combined,  66.5 ,  142.8 
+2020/2021,Z4.7.A.02,Leduc & Devon,Semi Urgent (4),  83.2 ,  114.4 
+2020/2021,Z4.7.A.02,Leduc & Devon,Non-Urgent (5),  13.2 ,  28.3 
+2020/2021,Z4.7.A.02,Leduc & Devon,Semi Urgent (4) & Non-Urgent (5) Combined,  96.4 ,  142.8 
+2020/2021,Z4.7.A.03,Thorsby,Semi Urgent (4),  98.7 ,  114.4 
+2020/2021,Z4.7.A.03,Thorsby,Non-Urgent (5),  15.2 ,  28.3 
+2020/2021,Z4.7.A.03,Thorsby,Semi Urgent (4) & Non-Urgent (5) Combined,  113.9 ,  142.8 
+2020/2021,Z4.8.A.01,Stony Plain & Spruce Grove,Semi Urgent (4),  74.8 ,  114.4 
+2020/2021,Z4.8.A.01,Stony Plain & Spruce Grove,Non-Urgent (5),  9.7 ,  28.3 
+2020/2021,Z4.8.A.01,Stony Plain & Spruce Grove,Semi Urgent (4) & Non-Urgent (5) Combined,  84.5 ,  142.8 
+2020/2021,Z4.8.B.02,Westview excluding Stony Plain and Spruce Grove,Semi Urgent (4),  92.0 ,  114.4 
+2020/2021,Z4.8.B.02,Westview excluding Stony Plain and Spruce Grove,Non-Urgent (5),  14.7 ,  28.3 
+2020/2021,Z4.8.B.02,Westview excluding Stony Plain and Spruce Grove,Semi Urgent (4) & Non-Urgent (5) Combined,  106.7 ,  142.8 
+2020/2021,Z4.9.A.01,St. Albert,Semi Urgent (4),  53.3 ,  114.4 
+2020/2021,Z4.9.A.01,St. Albert,Non-Urgent (5),  8.9 ,  28.3 
+2020/2021,Z4.9.A.01,St. Albert,Semi Urgent (4) & Non-Urgent (5) Combined,  62.1 ,  142.8 
+2020/2021,Z5.1.A.01,Jasper,Semi Urgent (4),  193.7 ,  114.4 
+2020/2021,Z5.1.A.01,Jasper,Non-Urgent (5),  143.3 ,  28.3 
+2020/2021,Z5.1.A.01,Jasper,Semi Urgent (4) & Non-Urgent (5) Combined,  337.0 ,  142.8 
+2020/2021,Z5.1.A.02,Hinton,Semi Urgent (4),  240.8 ,  114.4 
+2020/2021,Z5.1.A.02,Hinton,Non-Urgent (5),  60.8 ,  28.3 
+2020/2021,Z5.1.A.02,Hinton,Semi Urgent (4) & Non-Urgent (5) Combined,  301.6 ,  142.8 
+2020/2021,Z5.1.A.03,Edson,Semi Urgent (4),  210.1 ,  114.4 
+2020/2021,Z5.1.A.03,Edson,Non-Urgent (5),  88.5 ,  28.3 
+2020/2021,Z5.1.A.03,Edson,Semi Urgent (4) & Non-Urgent (5) Combined,  298.6 ,  142.8 
+2020/2021,Z5.1.B.04,Whitecourt,Semi Urgent (4),  241.2 ,  114.4 
+2020/2021,Z5.1.B.04,Whitecourt,Non-Urgent (5),  59.0 ,  28.3 
+2020/2021,Z5.1.B.04,Whitecourt,Semi Urgent (4) & Non-Urgent (5) Combined,  300.2 ,  142.8 
+2020/2021,Z5.1.B.05,Mayerthorpe,Semi Urgent (4),  220.2 ,  114.4 
+2020/2021,Z5.1.B.05,Mayerthorpe,Non-Urgent (5),  46.8 ,  28.3 
+2020/2021,Z5.1.B.05,Mayerthorpe,Semi Urgent (4) & Non-Urgent (5) Combined,  267.0 ,  142.8 
+2020/2021,Z5.1.C.06,Barrhead,Semi Urgent (4),  350.6 ,  114.4 
+2020/2021,Z5.1.C.06,Barrhead,Non-Urgent (5),  81.6 ,  28.3 
+2020/2021,Z5.1.C.06,Barrhead,Semi Urgent (4) & Non-Urgent (5) Combined,  432.2 ,  142.8 
+2020/2021,Z5.1.C.07,Westlock,Semi Urgent (4),  251.4 ,  114.4 
+2020/2021,Z5.1.C.07,Westlock,Non-Urgent (5),  55.4 ,  28.3 
+2020/2021,Z5.1.C.07,Westlock,Semi Urgent (4) & Non-Urgent (5) Combined,  306.8 ,  142.8 
+2020/2021,Z5.2.A.01,Frog Lake,Semi Urgent (4),  379.2 ,  114.4 
+2020/2021,Z5.2.A.01,Frog Lake,Non-Urgent (5),  190.4 ,  28.3 
+2020/2021,Z5.2.A.01,Frog Lake,Semi Urgent (4) & Non-Urgent (5) Combined,  569.6 ,  142.8 
+2020/2021,Z5.2.A.04,St. Paul,Semi Urgent (4),  293.5 ,  114.4 
+2020/2021,Z5.2.A.04,St. Paul,Non-Urgent (5),  181.2 ,  28.3 
+2020/2021,Z5.2.A.04,St. Paul,Semi Urgent (4) & Non-Urgent (5) Combined,  474.7 ,  142.8 
+2020/2021,Z5.2.A.05,Smoky Lake,Semi Urgent (4),  283.0 ,  114.4 
+2020/2021,Z5.2.A.05,Smoky Lake,Non-Urgent (5),  88.9 ,  28.3 
+2020/2021,Z5.2.A.05,Smoky Lake,Semi Urgent (4) & Non-Urgent (5) Combined,  371.9 ,  142.8 
+2020/2021,Z5.2.B.02,Cold Lake,Semi Urgent (4),  331.6 ,  114.4 
+2020/2021,Z5.2.B.02,Cold Lake,Non-Urgent (5),  78.3 ,  28.3 
+2020/2021,Z5.2.B.02,Cold Lake,Semi Urgent (4) & Non-Urgent (5) Combined,  409.9 ,  142.8 
+2020/2021,Z5.2.B.03,Bonnyville,Semi Urgent (4),  309.3 ,  114.4 
+2020/2021,Z5.2.B.03,Bonnyville,Non-Urgent (5),  88.8 ,  28.3 
+2020/2021,Z5.2.B.03,Bonnyville,Semi Urgent (4) & Non-Urgent (5) Combined,  398.0 ,  142.8 
+2020/2021,Z5.2.C.06,Boyle,Semi Urgent (4),  414.0 ,  114.4 
+2020/2021,Z5.2.C.06,Boyle,Non-Urgent (5),  149.8 ,  28.3 
+2020/2021,Z5.2.C.06,Boyle,Semi Urgent (4) & Non-Urgent (5) Combined,  563.8 ,  142.8 
+2020/2021,Z5.2.C.07,Athabasca,Semi Urgent (4),  280.6 ,  114.4 
+2020/2021,Z5.2.C.07,Athabasca,Non-Urgent (5),  57.9 ,  28.3 
+2020/2021,Z5.2.C.07,Athabasca,Semi Urgent (4) & Non-Urgent (5) Combined,  338.5 ,  142.8 
+2020/2021,Z5.2.C.08,Lac La Biche,Semi Urgent (4),  278.9 ,  114.4 
+2020/2021,Z5.2.C.08,Lac La Biche,Non-Urgent (5),  114.4 ,  28.3 
+2020/2021,Z5.2.C.08,Lac La Biche,Semi Urgent (4) & Non-Urgent (5) Combined,  393.4 ,  142.8 
+2020/2021,Z5.3.A.01,Grande Cache,Semi Urgent (4),  349.2 ,  114.4 
+2020/2021,Z5.3.A.01,Grande Cache,Non-Urgent (5),  188.6 ,  28.3 
+2020/2021,Z5.3.A.01,Grande Cache,Semi Urgent (4) & Non-Urgent (5) Combined,  537.8 ,  142.8 
+2020/2021,Z5.3.A.02,Fox Creek,Semi Urgent (4),  404.2 ,  114.4 
+2020/2021,Z5.3.A.02,Fox Creek,Non-Urgent (5),  146.8 ,  28.3 
+2020/2021,Z5.3.A.02,Fox Creek,Semi Urgent (4) & Non-Urgent (5) Combined,  551.0 ,  142.8 
+2020/2021,Z5.3.A.03,Valleyview,Semi Urgent (4),  692.1 ,  114.4 
+2020/2021,Z5.3.A.03,Valleyview,Non-Urgent (5),  444.3 ,  28.3 
+2020/2021,Z5.3.A.03,Valleyview,Semi Urgent (4) & Non-Urgent (5) Combined,"  1,136.5 ",  142.8 
+2020/2021,Z5.3.A.05,Beaverlodge,Semi Urgent (4),  304.4 ,  114.4 
+2020/2021,Z5.3.A.05,Beaverlodge,Non-Urgent (5),  53.1 ,  28.3 
+2020/2021,Z5.3.A.05,Beaverlodge,Semi Urgent (4) & Non-Urgent (5) Combined,  357.6 ,  142.8 
+2020/2021,Z5.3.B.04,Grande Prairie County excluding the City of Grande Prairie,Semi Urgent (4),  145.1 ,  114.4 
+2020/2021,Z5.3.B.04,Grande Prairie County excluding the City of Grande Prairie,Non-Urgent (5),  63.7 ,  28.3 
+2020/2021,Z5.3.B.04,Grande Prairie County excluding the City of Grande Prairie,Semi Urgent (4) & Non-Urgent (5) Combined,  208.8 ,  142.8 
+2020/2021,Z5.4.A.01,Swan Hills,Semi Urgent (4),  569.8 ,  114.4 
+2020/2021,Z5.4.A.01,Swan Hills,Non-Urgent (5),  361.1 ,  28.3 
+2020/2021,Z5.4.A.01,Swan Hills,Semi Urgent (4) & Non-Urgent (5) Combined,  930.9 ,  142.8 
+2020/2021,Z5.4.A.02,Slave Lake,Semi Urgent (4),  267.2 ,  114.4 
+2020/2021,Z5.4.A.02,Slave Lake,Non-Urgent (5),  93.8 ,  28.3 
+2020/2021,Z5.4.A.02,Slave Lake,Semi Urgent (4) & Non-Urgent (5) Combined,  361.0 ,  142.8 
+2020/2021,Z5.4.A.03,Wabasca,Semi Urgent (4),  738.7 ,  114.4 
+2020/2021,Z5.4.A.03,Wabasca,Non-Urgent (5),  152.1 ,  28.3 
+2020/2021,Z5.4.A.03,Wabasca,Semi Urgent (4) & Non-Urgent (5) Combined,  890.7 ,  142.8 
+2020/2021,Z5.4.A.07,High Prairie,Semi Urgent (4),  311.6 ,  114.4 
+2020/2021,Z5.4.A.07,High Prairie,Non-Urgent (5),  121.1 ,  28.3 
+2020/2021,Z5.4.A.07,High Prairie,Semi Urgent (4) & Non-Urgent (5) Combined,  432.7 ,  142.8 
+2020/2021,Z5.4.B.04,High Level,Semi Urgent (4),  384.8 ,  114.4 
+2020/2021,Z5.4.B.04,High Level,Non-Urgent (5),  274.1 ,  28.3 
+2020/2021,Z5.4.B.04,High Level,Semi Urgent (4) & Non-Urgent (5) Combined,  658.9 ,  142.8 
+2020/2021,Z5.4.B.05,Manning,Semi Urgent (4),  764.2 ,  114.4 
+2020/2021,Z5.4.B.05,Manning,Non-Urgent (5),  275.0 ,  28.3 
+2020/2021,Z5.4.B.05,Manning,Semi Urgent (4) & Non-Urgent (5) Combined,"  1,039.3 ",  142.8 
+2020/2021,Z5.4.C.06,Peace River,Semi Urgent (4),  446.7 ,  114.4 
+2020/2021,Z5.4.C.06,Peace River,Non-Urgent (5),  159.2 ,  28.3 
+2020/2021,Z5.4.C.06,Peace River,Semi Urgent (4) & Non-Urgent (5) Combined,  605.9 ,  142.8 
+2020/2021,Z5.4.D.08,Falher,Semi Urgent (4),  449.5 ,  114.4 
+2020/2021,Z5.4.D.08,Falher,Non-Urgent (5),  297.7 ,  28.3 
+2020/2021,Z5.4.D.08,Falher,Semi Urgent (4) & Non-Urgent (5) Combined,  747.2 ,  142.8 
+2020/2021,Z5.4.D.09,Spirit River,Semi Urgent (4),  205.2 ,  114.4 
+2020/2021,Z5.4.D.09,Spirit River,Non-Urgent (5),  120.7 ,  28.3 
+2020/2021,Z5.4.D.09,Spirit River,Semi Urgent (4) & Non-Urgent (5) Combined,  325.9 ,  142.8 
+2020/2021,Z5.4.D.10,Fairview,Semi Urgent (4),  307.4 ,  114.4 
+2020/2021,Z5.4.D.10,Fairview,Non-Urgent (5),  230.5 ,  28.3 
+2020/2021,Z5.4.D.10,Fairview,Semi Urgent (4) & Non-Urgent (5) Combined,  538.0 ,  142.8 
+2020/2021,Z5.5.A.01,Wood Buffalo excluding Fort McMurray,Semi Urgent (4),  282.1 ,  114.4 
+2020/2021,Z5.5.A.01,Wood Buffalo excluding Fort McMurray,Non-Urgent (5),  42.0 ,  28.3 
+2020/2021,Z5.5.A.01,Wood Buffalo excluding Fort McMurray,Semi Urgent (4) & Non-Urgent (5) Combined,  324.2 ,  142.8 
+2020/2021,Z5.6.A.01,Fort McMurray,Semi Urgent (4),  222.6 ,  114.4 
+2020/2021,Z5.6.A.01,Fort McMurray,Non-Urgent (5),  25.3 ,  28.3 
+2020/2021,Z5.6.A.01,Fort McMurray,Semi Urgent (4) & Non-Urgent (5) Combined,  247.9 ,  142.8 
+2020/2021,Z5.7.A.01,City of Grande Prairie,Semi Urgent (4),  168.3 ,  114.4 
+2020/2021,Z5.7.A.01,City of Grande Prairie,Non-Urgent (5),  61.2 ,  28.3 
+2020/2021,Z5.7.A.01,City of Grande Prairie,Semi Urgent (4) & Non-Urgent (5) Combined,  229.5 ,  142.8 
