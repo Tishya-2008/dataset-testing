@@ -90,23 +90,7 @@ The classification report evaluates the model's performance for each target clas
 ---
 
 ## **5. Real-World Context for Emergency Visits**
-If the dataset tracks emergency visits:
 - **"Very High":** Regions or timeframes experiencing critical stress, possibly due to pandemics, disasters, or systemic healthcare challenges.
 - **"High":** Substantial but manageable stress, perhaps in densely populated areas or during flu seasons.
 - **"Medium":** Normal or average levels of healthcare utilization.
 - **"Low":** Areas with fewer emergency visits, likely due to effective preventative care or lower population density.
-
----
-
-## **6. Recommendations**
-1. **Balance the Dataset:**
-   - Use oversampling or synthetic data generation (e.g., SMOTE) for underrepresented classes like `High`.
-   
-2. **Enhance Features:**
-   - Investigate additional predictors that might better distinguish between `High` and `Medium` levels.
-
-3. **Alternative Evaluation Metrics:**
-   - Consider focusing on metrics like the **macro F1-score** to measure performance more equitably across all categories.
-
-4. **Model Improvement:**
-   - Experiment with more advanced algorithms (e.g., ensemble methods) or hyperparameter tuning to improve classification for minority classes.
