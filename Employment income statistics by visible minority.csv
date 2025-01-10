@@ -1,0 +1,75 @@
+﻿"Employment income statistics by visible minority, highest level of education, immigrant status and income year: Canada, provinces and territories, census metropolitan areas and census agglomerations with parts"
+"Frequency: Occasional"
+"Table: 98-10-0439-01"
+"Release date: 2022-11-30"
+"Geography: Canada, Province or territory, Census metropolitan area, Census agglomeration, Census metropolitan area part, Census agglomeration part"
+"Universe: Population aged 15 years and over in private households, 2021 Census — 25% Sample data"
+"Variable List: Highest certificate, diploma or degree (16), Statistics (3), Gender (3), Age (15A), Employment income statistics (7), Immigrant status (4A), Income year (2), Visible minority (15)"
+
+"Geography","Canada i1",,,,,,,,,,,,,,
+"Statistics (3)","Count",,,,,,,,,,,,,,
+"Gender (3) 1 2","Total - Gender",,,,,,,,,,,,,,
+"Age (15A) 3","Total - Age",,,,,,,,,,,,,,
+"Employment income statistics (7)","Total - Employment income statistics 5 6 7 8",,,,,,,,,,,,,,
+"Immigrant status (4A) 4","Total - Immigrant status 9",,,,,,,,,,,,,,
+"Income year (2)","2020",,,,,,,,,,,,,,
+"Visible minority (15) 10","Total - Visible minority 12 13","Total visible minority population 14","South Asian","Chinese","Black","Filipino","Arab","Latin American","Southeast Asian","West Asian","Korean","Japanese","Visible minority, n.i.e. 15","Multiple visible minorities","Not a visible minority 16"
+"Highest certificate, diploma or degree (16) 11"
+"Total - Highest certificate, diploma or degree 17","30,335,920","7,721,915","2,083,385","1,455,200","1,144,105","781,555","512,025","495,585","324,255","298,990","183,195","80,550","142,120","220,955","22,614,005"
+"No certificate, diploma or degree","4,899,580","1,133,220","291,190","204,310","193,050","66,940","90,635","78,715","81,470","44,585","12,355","6,735","26,415","36,825","3,766,360"
+"High (secondary) school diploma or equivalency certificate 18","8,097,295","1,881,340","490,735","332,150","306,545","205,450","103,820","125,020","90,820","66,070","42,250","20,210","41,700","56,560","6,215,955"
+"Postsecondary certificate, diploma or degree","17,339,045","4,707,350","1,301,460","918,735","644,505","509,165","317,575","291,850","151,960","188,335","128,585","53,610","74,000","127,565","12,631,695"
+"Postsecondary certificate or diploma below bachelor level","9,252,800","1,740,245","379,765","265,500","353,040","214,510","113,600","139,585","70,245","53,150","36,195","22,045","41,505","51,100","7,512,555"
+"Apprenticeship or trades certificate or diploma","2,641,555","321,360","49,510","31,980","88,755","36,175","27,300","36,410","15,510","11,110","3,615","3,730","8,120","9,145","2,320,200"
+"Non-apprenticeship trades certificate or diploma 19","1,458,165","202,295","30,305","17,385","58,115","25,005","18,815","23,795","8,890","6,385","1,725","1,760","4,685","5,425","1,255,865"
+"Apprenticeship certificate 20","1,183,395","119,065","19,205","14,590","30,645","11,175","8,485","12,615","6,620","4,725","1,885","1,975","3,435","3,720","1,064,330"
+"College, CEGEP or other non-university certificate or diploma 21","5,714,490","1,107,420","253,190","176,235","218,130","133,405","64,470","82,655","45,930","32,420","22,135","15,260","28,550","35,040","4,607,070"
+"University certificate or diploma below bachelor level","896,750","311,465","77,065","57,290","46,150","44,930","21,835","20,515","8,800","9,620","10,450","3,060","4,835","6,915","585,285"
+"Bachelor’s degree or higher","8,086,245","2,967,105","921,690","653,235","291,470","294,655","203,975","152,265","81,715","135,185","92,390","31,565","32,500","76,465","5,119,140"
+"Bachelor's degree","5,295,360","1,899,400","531,010","427,785","178,570","254,475","121,140","91,685","59,040","70,115","66,380","22,875","21,595","54,730","3,395,960"
+"University certificate or diploma above bachelor level","556,510","190,765","56,635","30,185","22,615","18,205","16,640","21,390","4,725","5,710","6,075","1,620","2,175","4,800","365,750"
+"Degree in medicine, dentistry, veterinary medicine or optometry","214,105","92,750","31,740","16,425","6,440","5,550","11,520","4,535","2,985","7,785","1,910","760","920","2,190","121,360"
+"Master's degree","1,740,605","688,105","281,460","152,485","74,020","15,030","43,375","30,100","12,695","39,175","15,300","4,955","6,700","12,820","1,052,500"
+"Earned doctorate 22","279,660","96,085","20,850","26,360","9,830","1,395","11,300","4,560","2,275","12,395","2,735","1,355","1,110","1,925","183,575"
+
+
+Abbreviation notes:
+
+List of abbreviations and acronyms found within various Census products.
+(https://www12.statcan.gc.ca/census-recensement/2021/ref/symb-ab-acr-eng.cfm)
+
+
+
+iBall:
+i1,"Geography name: Canada; Geographic area type: Country; Geographic area type abbreviation: Country; Geographic level: Country; Province or territory abbreviation: ...; Dissemination Geography Unique Identifier (DGUID): 2021A000011124; Alternative geographic code: 01; Province or territory geocode: 01; Long-form total non-response rate: 4.3; Data quality flag: 20000; Data quality note: Excludes census data for one or more incompletely enumerated reserves or settlements."
+
+
+
+Footnotes:
+1,"Gender  Gender refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman).   Gender includes the following concepts:   gender identity, which refers to the gender that a person feels internally and individually;   gender expression, which refers to the way a person presents their gender, regardless of their gender identity, through body language, aesthetic choices or accessories (e.g., clothes, hairstyle and makeup), which may have traditionally been associated with a specific gender.  A person's gender may differ from their sex at birth, and from what is indicated on their current identification or legal documents such as their birth certificate, passport or driver's licence. A person's gender may change over time.   Some people may not identify with a specific gender."
+2,"Given that the non-binary population is small, data aggregation to a two-category gender variable is sometimes necessary to protect the confidentiality of responses provided. In these cases, individuals in the category “non-binary persons” are distributed into the other two gender categories and are denoted by the “+” symbol."
+3,"Age    'Age' refers to the age of a person (or subject) of interest at last birthday (or relative to a specified, well-defined reference date)."
+4,"Immigrant status  Immigrant status refers to whether the person is a non-immigrant, an immigrant or a non-permanent resident."
+5,"Employment income - All income received as wages, salaries and commissions from paid employment and net self-employment income from farm or non-farm unincorporated business and/or professional practice during the reference period. For the 2021 Census, the reference period for income data is the calendar year 2020, unless otherwise specified."
+6,"Wages, salaries and commissions - Gross wages and salaries before deductions for such items as income taxes, pension plan contributions and employment insurance premiums during the reference period. While other employee remuneration such as security options benefits, board and lodging and other taxable allowances and benefits are included in this source, employer's contributions to pension plans and employment insurance plans are excluded. Other receipts included in this source are military pay and allowances, tips, commissions and cash bonuses associated with paid employment, benefits from wage-loss replacement plans or income-maintenance insurance plans, supplementary unemployment benefits from an employer or union, research grants, royalties from a work or invention with no associated expenses and all types of casual earnings during the reference period."
+7,"The median income of a specified group is the amount that divides the income distribution of that group into two halves, i.e., the incomes of half of the units in that group are below the median, while those of the other half are above the median. Median incomes of individuals are calculated for those with income (positive or negative)."
+8,"Average income of a specified group is calculated by dividing the aggregate income of that group by the number of units in that group. Average incomes are calculated for those with income (positive or negative)."
+9,"'Immigrant status' refers to whether the person is a non-immigrant, an immigrant or a non-permanent resident.   Non-permanent residents are included in 'Total - Immigrant status.' The category for 'Non-permanent residents' is not presented elsewhere in this table with income as they may not have a complete year of applicable income.   'Non-permanent residents' includes persons from another country with a usual place of residence in Canada and who have a work or study permit, or who have claimed refugee status (asylum claimants). Family members living with work or study permit holders are also included, unless these family members are already Canadian citizens or landed immigrants or permanent residents.   For more information on immigration variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Place of Birth, Generation Status, Citizenship and Immigration Reference Guide, Census of Population, 2021."
+10,"Visible minority  Visible minority refers to whether a person is a visible minority or not, as defined by the Employment Equity Act. The Employment Equity Act defines visible minorities as "persons, other than Aboriginal peoples, who are non-Caucasian in race or non-white in colour." The visible minority population consists mainly of the following groups: South Asian, Chinese, Black, Filipino, Arab, Latin American, Southeast Asian, West Asian, Korean and Japanese."
+12,""Visible minority" refers to whether a person is a visible minority or not, as defined by the Employment Equity Act. The Employment Equity Act defines visible minorities as "persons, other than Aboriginal peoples, who are non-Caucasian in race or non-white in colour." The visible minority population consists mainly of the following groups: South Asian, Chinese, Black, Filipino, Arab, Latin American, Southeast Asian, West Asian, Korean and Japanese.   In 2021 Census analytical and communications products, the term "visible minority" has been replaced by the terms "racialized population" or "racialized groups", reflecting the increased use of these terms in the public sphere."
+13,"For more information on visible minority and population group variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Visible Minority and Population Group Reference Guide, Census of Population, 2021."
+14,"In 2021 Census analytical and communications products, the term "visible minority" has been replaced by the terms "racialized population" or "racialized groups", reflecting the increased use of these terms in the public sphere."
+15,"The abbreviation "n.i.e." means "not included elsewhere." This category includes persons who provided responses that are classified as a visible minority, but that cannot be classified with a specific visible minority group. Such responses include, for example, "Guyanese," "Pacific Islander," "Polynesian," "Tibetan" and "West Indian.""
+16,"In 2021 Census analytical and communications products, this category is referred to as "the rest of the population.""
+11,"Highest certificate, diploma or degree  Highest certificate, diploma or degree is the classification used in the census to measure the broader concept of 'Educational attainment.'  This variable refers to the highest level of education that a person has successfully completed and is derived from the educational qualifications questions, which asked for all certificates, diplomas and degrees to be reported.  The general hierarchy used in deriving this variable (high school, trades, college, university) is loosely tied to the 'in-class' duration of the various types of education. At the detailed level, someone who has completed one type of certificate, diploma or degree will not necessarily have completed the credentials listed below it in the hierarchy. For example, a person with an apprenticeship or trades certificate or diploma may not have completed a high school certificate or diploma, nor does an individual with a 'master's degree' necessarily have a 'university certificate or diploma above bachelor level.' Although the hierarchy may not fit all programs perfectly, it gives a general measure of educational attainment.  This variable is reported for persons aged 15 years and over in private households."
+17,"For information on data quality for this variable, refer to the Education Reference Guide, Census of Population, 2021, Catalogue no. 98-500-X2021013."
+18,"'High (secondary) school diploma or equivalency certificate' includes only people who have this as their highest educational credential. It excludes persons with a postsecondary certificate, diploma or degree."
+19,"'Non-apprenticeship trades certificate or diploma' includes trades certificates or diplomas such as pre-employment or vocational certificates and diplomas from brief trade programs completed at colleges, institutes of technology, vocational centres and similar institutions. It also includes qualifications from vocational training programs in the province of Quebec such as the Diplôme d'études professionnelles (DEP)/Diploma of Vocational Studies (DVS)."
+20,"'Apprenticeship certificate' includes Certificates of Apprenticeship, Certificates of Qualification and Journeyperson's designations."
+21,"College, CEGEP and other non-university certificates and diplomas obtained from programs that are typically completed in less than 3 months are not included in this category."
+22,"'Earned doctorate' does not include honorary doctorates."
+
+
+
+"How to cite: Statistics Canada. Table 98-10-0439-01  Employment income statistics by visible minority, highest level of education, immigrant status and income year: Canada, provinces and territories, census metropolitan areas and census agglomerations with parts"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810043901

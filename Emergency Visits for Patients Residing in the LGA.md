@@ -56,17 +56,17 @@ The classification report evaluates the model's performance for each target clas
 
 ## **3. Explanation of Categories**
 
-### **High**
-- **Meaning:** Represents instances with relatively elevated values for the target variable but not the highest.
-- **Example:** If tracking emergency visit rates, `High` might mean significantly above-average rates but not at critical levels.
+  ### **High**
+  - **Meaning:** Represents instances with relatively elevated values for the target variable but not the highest.
+  - **Example:** If tracking emergency visit rates, `High` might mean significantly above-average rates but not at critical levels.
 
-### **Low**
-- **Meaning:** Represents instances with relatively low values for the target variable.
-- **Example:** For emergency visits, `Low` could indicate areas with well-managed healthcare resources or fewer emergency situations.
+  ### **Low**
+  - **Meaning:** Represents instances with relatively low values for the target variable.
+  - **Example:** For emergency visits, `Low` could indicate areas with well-managed healthcare resources or fewer emergency situations.
 
-### **Medium**
-- **Meaning:** Represents intermediate values for the target variable.
-- **Example:** For emergency visits, `Medium` could signify areas with moderate visit rates, neither critically high nor exceptionally low.
+  ### **Medium**
+  - **Meaning:** Represents intermediate values for the target variable.
+  - **Example:** For emergency visits, `Medium` could signify areas with moderate visit rates, neither critically high nor exceptionally low.
 
 ### **Very High**
 - **Meaning:** Represents instances with the highest values for the target variable.
