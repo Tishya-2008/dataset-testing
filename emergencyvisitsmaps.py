@@ -54,3 +54,4 @@ m.get_root().html.add_child(folium.Element(legend_html))
 m.save('emergency_visits_map.html')
 
 print("Map has been created and saved as 'emergency_visits_map.html'.")
+
